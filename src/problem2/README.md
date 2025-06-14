@@ -69,3 +69,9 @@ Uses Switcheo API for exchange rates:
 ```
 https://interview.switcheo.com/prices.json
 ```
+
+### Demo video
+
+https://jam.dev/c/498144a5-373c-4942-9c68-cfd1035f69fa
+
+_Demo showing the token swap functionality with real-time exchange rates and form validation_

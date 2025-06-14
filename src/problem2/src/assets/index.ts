@@ -1,0 +1,11 @@
+export { default as ATOMIcon } from "./ATOM.svg?react";
+export { default as BUSDIcon } from "./BUSD.svg?react";
+export { default as ETHIcon } from "./ETH.svg?react";
+export { default as GMXIcon } from "./GMX.svg?react";
+export { default as IRISIcon } from "./IRIS.svg?react";
+export { default as LUNAIcon } from "./LUNA.svg?react";
+export { default as rATOMIcon } from "./rATOM.svg?react";
+export { default as USDCIcon } from "./USDC.svg?react";
+export { default as WBTCIcon } from "./WBTC.svg?react";
+export { default as wstETHIcon } from "./wstETH.svg?react";
+export { default as ZILIcon } from "./ZIL.svg?react";
